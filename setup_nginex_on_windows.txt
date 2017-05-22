@@ -1,0 +1,11 @@
+How to install nginex + mysql + php on windows using with following links:
+--------------------------------------------------------------------------
+https://eksith.wordpress.com/2010/11/07/nginx-php-mysql-windows/
+
+PHP ZIP file Download link for windos
+-------------------------------------
+http://windows.php.net/download/
+
+MYSQL Download link for windows
+-------------------------------
+https://dev.mysql.com/downloads/file/?id=469273
